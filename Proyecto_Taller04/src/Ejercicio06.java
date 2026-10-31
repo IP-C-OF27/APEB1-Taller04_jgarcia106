@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Ejercicio 04: "Generar un solución que permita calcular y mostrar el pago 
+ * Ejercicio 06: "Generar un solución que permita calcular y mostrar el pago 
  * mensual de un préstamo de 1 año de plazo. Se debe ingresar el monto del 
  * préstamo y el interés mensual a cobrar."
  * @author Jhoel Garcia
